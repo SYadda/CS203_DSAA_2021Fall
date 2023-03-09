@@ -1,2 +1,4 @@
 # DSAA_2021Fall
-my DSAA course code in 2021 Fall
+SUSTech undergraduate course: Data Structures and Algorithm Analysis (DSAA)
+
+This is my course code in 2021 Fall.
